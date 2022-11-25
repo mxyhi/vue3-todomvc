@@ -1,0 +1,5 @@
+$size: var(--size, 50px);
+
+:export {
+  viewSize: $size;
+}
